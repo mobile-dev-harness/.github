@@ -13,4 +13,11 @@ around how they work:
 - **UI consistency, performance and compatibility checks**, each risk verified where the change puts it at risk
 - One engine, two interfaces: a CLI and an MCP server, plus a Claude Code plugin
 
+## Repositories
+
+| | |
+|---|---|
+| [mobile-dev-harness](https://github.com/mobile-dev-harness/mobile-dev-harness) | `mdh`: the CLI, the MCP server and the verification engine |
+| [android-compat-kb](https://github.com/mobile-dev-harness/android-compat-kb) | What an Android change can run into on other OS versions, device types and vendor ROMs, as data with sources |
+
 Android today; written in Rust; MIT or Apache-2.0. [简体中文](https://github.com/mobile-dev-harness/mobile-dev-harness/blob/main/README.zh-CN.md)
